@@ -1,5 +1,4 @@
-## repository for Launch School - Introduction to Programming with Ruby ##
-### book exercises ###
-** RB100 **
+## repository for Launch School RB100 - Introduction to Programming with Ruby ##
 
+Introduction to Programming with Ruby Book Exercises
 
